@@ -361,3 +361,16 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Library
+/MonoBleedingEdge
+/ProjectSettings
+/Simple 2D game_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64
+/Simple 2D game_Data
+/Temp
+/UserSettings
+/UnityPlayer.dll
+/UnityCrashHandler64.exe
+/Simple 2D game.sln
+/Simple 2D game.exe
+/Assembly-CSharp.csproj
+/.vsconfig
